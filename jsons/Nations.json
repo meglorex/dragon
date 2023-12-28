@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Dragon God Kingdom",
+		"leaderName": "Scytherus",
+		"adjective": ["High Human Dragonkin"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Rejoice the High humans are Coming!",
+		"startIntroPart2": "This is an overpowered nation just for fun. Set Magic to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the Dragons will sing of your valor... or mine",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"defeated": "How is it possible that those magicless hurt us? The dragons will End them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
@@ -27,10 +27,10 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [55,184,33],
+		"innerColor": [255,255,102],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["The Sky Cast","Q'Star","Q'Rose","Q'blaphhet","Q'Drakehead","Q'Godeks","Q'fafnir","Q'lunanoir","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
